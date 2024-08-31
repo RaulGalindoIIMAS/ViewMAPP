@@ -20,6 +20,16 @@ The following video shows the app's functionality.
 
 
 
+https://github.com/user-attachments/assets/aa854d46-4941-4a26-8aae-4e40e84bda8c
+
+
+
 
 UIUnitTests were implemented to test the navigation flow and views.
+
+
+<img width="1395" alt="2024-08-31 at 11 56 25 a m" src="https://github.com/user-attachments/assets/a48d803e-2571-428d-b324-06bedc2fa6a8">
+<img width="1394" alt="2024-08-31 at 11 56 22 a m" src="https://github.com/user-attachments/assets/415baec2-a59f-4a82-b434-59a670fefe83">
+
+
 
